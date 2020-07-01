@@ -131,6 +131,10 @@ section{
       border: 1px solid;
       border-radius: 15px;
   }
+ .below-box{
+      margin-top: 50px;
+
+  }
   
   .last-section{
       background-image: url("images/footer-bg.png");
